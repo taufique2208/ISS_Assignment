@@ -30,7 +30,7 @@
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
 | Folder                  | Language   | How to Run                                                  |
 | ----------------------- | ---------- | ----------------------------------------------------------- |
@@ -42,7 +42,7 @@
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
 * **Java 21**
 * **Eclipse**
