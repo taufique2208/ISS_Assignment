@@ -1,8 +1,3 @@
-# Python Basics Project
-
-
-📁 Files and Topics
-
 1. variables.py
 
    * Demonstrates how to define and use variables.
@@ -61,8 +56,7 @@
      * else-finally structure
      * raise keyword to manually throw errors
 
-🛠️ How to Run
-
+How to Run
 
 To run a file, use the following command in your terminal:
 
