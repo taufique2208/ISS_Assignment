@@ -1,21 +1,17 @@
-
-# 🌐 Client Server Applications
-
-
-## ✅ 1. Hello World Web App
+## 1. Hello World Web App
 
 A basic dynamic web app that displays a "Hello World" message via JSP and runs on Tomcat.
 
-### 📂 Folder: `HelloWorld/`
+Folder: `HelloWorld/`
 
 
-## ✅ 2. Login/Register App (MySQL + JSP/Servlet)
+## 2. Login/Register App (MySQL + JSP/Servlet)
 
 A full-featured login and registration web application with JDBC-backed MySQL integration.
 
-### 📂 Folder: `LoginRegister/`
+Folder: `LoginRegister/`
 
-#### 🧾 Pages
+#### Pages
 
 | File             | Description                                  |
 | ---------------- | -------------------------------------------- |
@@ -25,7 +21,7 @@ A full-featured login and registration web application with JDBC-backed MySQL in
 | `error.jsp`      | Generic error page                           |
 | `userexists.jsp` | Displays "User already exists" message       |
 
-#### 🚀 Servlets
+#### Servlets
 
 | Servlet                | URL Mapping | Purpose                                |
 | ---------------------- | ----------- | -------------------------------------- |
@@ -35,7 +31,7 @@ A full-featured login and registration web application with JDBC-backed MySQL in
 
 ---
 
-### ✅ MySQL Table Schema
+### MySQL Table Schema
 
 ```sql
 CREATE DATABASE loginapp;
@@ -49,7 +45,7 @@ CREATE TABLE users (
 );
 ```
 
-## 🖥️ Prerequisites
+## Prerequisites
 
 * Java 21
 * Eclipse IDE for Enterprise Java
@@ -60,16 +56,7 @@ CREATE TABLE users (
   * `mysql-connector-java-8.0.xx.jar`
 
 ---
-
-## ▶️ How to Run
-
-### For Both Apps:
-
-1. Open Eclipse → `File → New → Dynamic Web Project`
-2. Import or recreate `HelloWorld` and `LoginRegister`
-3. Right-click the project → `Run As → Run on Server`
-4. Choose your **Apache Tomcat** server
-5. Access via browser:
+Access via browser:
 
    * Hello World:
      `http://localhost:8080/helloworldwebapp/`
