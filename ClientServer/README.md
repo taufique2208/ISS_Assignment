@@ -45,15 +45,12 @@ CREATE TABLE users (
 );
 ```
 
-## Prerequisites
-
-* Java 21
-* Eclipse IDE for Enterprise Java
+## Dependencies
 * Apache Tomcat 9/10
 * MySQL Server
 * JARs in `WEB-INF/lib/`:
 
-  * `mysql-connector-java-8.0.xx.jar`
+  * `mysql-connector-java-9.3.0.jar`
 
 ---
 Access via browser:
