@@ -24,5 +24,5 @@ Each `.sql` file covers essential SQL concepts:
 
 ## Dependencies
 
-* `mysql-connector-java-8.0.xx.jar`
+* `mysql-connector-java-9.3.0.jar`
 
